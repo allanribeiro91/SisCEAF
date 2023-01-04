@@ -3,7 +3,7 @@ Repositório do sistema aplicativo protótipo para gestão de dados da CGCEAF/DA
 Desenvolvido utilizando recursos do Excel. 
 Principais recursos utilizados: VBA, Power Query, funções e pacote Selenium.
 
-Módulos:
+O SisCEAF é composto por três módulos:
 - Programação: programação e distribuição de medicamentos.
 - Contratos: gestão de contratos de medicamentos da CGCEAF.
 - Processos: gestão de processos de aquisição de medicamentos da CGCEAF.
