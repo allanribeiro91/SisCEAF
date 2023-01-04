@@ -1,5 +1,5 @@
 <h1>SisCEAF</h1>
-
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 > Status do Projeto: Em desenvolvimento
 
 Repositório do sistema aplicativo protótipo para gestão de dados da CGCEAF/DAF/SCTIE/MS.
